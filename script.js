@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Aku Si Ganteng kamu pada hari ini Rabu, 23 September 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 17</b>", " ", "Kepada Nur Adilia, semoga kamu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", " #Rahman ganteng :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Aku Si Ganteng:) pada hari ini Kamis, 23 September 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 17</b>", " ", "Kepada Nur Adilia, semoga kamu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", " #Si ganteng :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii cantik!!", "Happy Birthday ya..", " ", "Ciie udah 17 tahun, padahal baru aja beberapa hari kemarin masih 16 tahun hehe, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang bagus. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Haii Adell!", "Happy Birthday ya..", " ", "Ciie udah 17 tahun, padahal baru aja beberapa hari kemarin masih 16 tahun hehe, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang bagus. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun Adell. Semoga semua keinginan, dan harapan kamu bisa tercapai, Aamiin."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
